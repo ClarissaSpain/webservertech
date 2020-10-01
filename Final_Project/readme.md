@@ -3,8 +3,9 @@
 ## Project Name: GoodVibes .com
   New social media website. I believe social media is a way to share knowledge, this includes but not limited to the ability to manage, search, exchange, and update information. 
         GoodVibes wishes to develop a new social media platform to enable users to host their own content through posts, blogs, or groups. The platform will enable users to connect all of their content creation sites and have a one-stop spot for their audience to experience everything.
-        
-![](includes/goodvibes-logo2.png)
+
+![](includes/goodvibeslogo2.png)
+
 ## Specifications/Requirements
 
 ### Feature list (Product Requirements)
